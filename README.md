@@ -19,7 +19,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 目标：后端程序员
-🌱 学习：JAVA后端技术
-💬 讨论：游戏/Java
-🎮 游戏：PS5/Switch/PC
+🔭 目标：后端程序员   
+
+🌱 学习：JAVA后端技术  
+
+💬 讨论：游戏/Java   
+
+🎮 游戏：PS5/Switch/PC   
