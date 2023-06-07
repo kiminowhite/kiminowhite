@@ -27,5 +27,9 @@ Here are some ideas to get you started:
 
 
 ---
-Languages and Tools:
-https://www.java.com/zh-CN/
+この学校は、好きですか。　　　
+わたしはとってもとっても好きです。　　　
+でも、なにもかも…変わらずにはいられないです。　　　
+楽しいこととか、うれしいこととか、ぜんぶ。…ぜんぶ、変わらずにはいられないです。　　　
+それでも、この場所が好きでいられますか。
+
