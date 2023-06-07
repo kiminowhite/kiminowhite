@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi  👋 I AM Kiminowhite （きみのほわいと）
+#### 🇨🇳 拒绝考研渴望进厂的程序猿🐒
 
 <!--
 **kiminowhite/kiminowhite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
