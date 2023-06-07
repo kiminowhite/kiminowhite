@@ -1,4 +1,6 @@
-### Hi  👋 I AM Kiminowhite （きみのほわいと）
+### Hi!👋  
+### I AM Kiminowhite （きみのほわいと）
+---
 #### 🇨🇳 拒绝考研渴望进厂的程序猿🐒
 
 <!--
