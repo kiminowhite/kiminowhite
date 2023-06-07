@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 
 ---
 Languages and Tools:
-[java spring golang docker css3   git  html5 javascript  linux  mysql nginxpostman vuejs ](https://www.linux.org/)
+java spring golang docker css3   git  html5 javascript  linux  mysql nginxpostman vuejs
