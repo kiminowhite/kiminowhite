@@ -9,10 +9,6 @@
 **kiminowhite/kiminowhite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-🔭 目标：后端程序员
-🌱 学习：JAVA后端技术
-💬 讨论：游戏/Java
-🎮 游戏：PS5/Switch/PC
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -23,3 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 目标：后端程序员
+🌱 学习：JAVA后端技术
+💬 讨论：游戏/Java
+🎮 游戏：PS5/Switch/PC
