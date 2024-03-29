@@ -1,7 +1,7 @@
 ### Hi!👋  
 ### I am Kiminowhite🇨🇳  
-#### 🇯🇵 日本語を勉強中です！よろしくお願いします〜
-#### 🇺🇸 I will try my best to remember more words!
+#### 🇯🇵 日本語を勉強してる！よろしくお願いします〜
+
 ---
 
 
