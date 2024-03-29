@@ -19,9 +19,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 目标：后端程序员
-- 🌱 学习：Java后端技术/安卓/日语  
-- 🎮 游戏：PS5/Switch/PC   
+Java/Kotlin
+后端/安卓
 
 
 
