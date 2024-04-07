@@ -1,6 +1,5 @@
 ### Hi!👋  
 ### I am Kiminowhite🇨🇳  
-#### 🇯🇵 日本語を勉強してる！よろしくお願いします〜
 
 ---
 
@@ -19,8 +18,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-##### Java/Kotlin
-##### 后端/安卓
+#### Java/Kotlin
+#### 后端/安卓
 
 
-
+#### シロ
