@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 ##### ☕️Java->Web
 ##### 🟩Kotlin->Android
 
-####ゲーム・J-POP・アニメ
+#### ゲーム・J-POP・アニメ
