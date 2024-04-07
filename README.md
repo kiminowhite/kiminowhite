@@ -22,4 +22,7 @@ Here are some ideas to get you started:
 #### 后端/安卓
 
 
-#### シロ
+##### ☕️Java->Web
+##### 🟩Kotlin->Android
+
+####ゲーム・J-POP・アニメ
