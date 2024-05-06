@@ -27,7 +27,4 @@ Here are some ideas to get you started:
 
 #### ゲーム・J-POP・アニメ
 
-<div align="center">
-	<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-	![kiminowhite's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kiminowhite GitHub ID&layout=compact&hide_border=true&langs_count=10)
-</div>
+[![kiminowhite](https://github-readme-stats.vercel.app/api?username=kiminowhite)](https://github.com/anuraghazra/github-readme-stats)
