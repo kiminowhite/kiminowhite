@@ -19,11 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### Java/Kotlin
-#### 后端/安卓
 
-
-##### ☕️Java->Web
-##### 🟩Kotlin->Android
 
 #### ゲーム・J-POP・アニメ
 
