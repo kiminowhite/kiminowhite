@@ -1,5 +1,5 @@
 ### Hi!👋  
-### I am 夕洛/Kiminowhite  🇨🇳  
+### I’m Kiminowhite 
 
 ---
 
