@@ -1,27 +1,17 @@
 ### Hi!👋  
 ### I’m Kiminowhite 
+#### Android dev
 
 ---
 
 
-<!--
-**kiminowhite/kiminowhite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-#### Android
 
 
-#### ゲーム・J-POP・アニメ
+
+### 最近好きなもの
+#### ゲーム:ペルソナ/ロル
+#### J-POP:ヒゲダン
+#### アニメ:MyGo!!!!!
 
 <div style="display:flex; justify-content:space-between; align-items: flex-end;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
