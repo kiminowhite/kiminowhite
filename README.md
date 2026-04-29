@@ -1,5 +1,4 @@
 ### Hi!👋  
-### Sh1ro
 #### Android 
 
 ---
