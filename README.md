@@ -1,6 +1,6 @@
 ### Hi!👋  
-### I’m Kiminowhite 
-#### Android dev
+### Sh1ro
+#### Android 
 
 ---
 
