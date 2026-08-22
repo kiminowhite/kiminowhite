@@ -1,15 +1,8 @@
 ### Hi!👋  
 #### Android 
-
+#### ゲームアニメ
 ---
 
-
-
-
-
-#### ゲーム:ペルソナ/ロル
-#### J-POP:ヒゲダン
-#### アニメ:MyGo!!!!!
 
 <div style="display:flex; justify-content:space-between; align-items: flex-end;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
